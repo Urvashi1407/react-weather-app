@@ -1,5 +1,3 @@
-
-
 # 🌦 React Weather App
 
 A responsive Weather Application built using **React** and **Material UI** that fetches real-time weather data using the OpenWeather API.
@@ -25,45 +23,41 @@ A responsive Weather Application built using **React** and **Material UI** that 
 * CSS
 
 ---
-<<<<<<< HEAD
-
 
 ## 📦 Installation & Setup
 
 1. Clone the repository
 
-   ```bash
-   git clone https://github.com/Urvashi1407/react-weather-app.git
-   ```
+```bash
+git clone https://github.com/Urvashi1407/react-weather-app.git
+```
 
 2. Navigate into the project folder
 
-   ```bash
-   cd react-weather-app
-   ```
+```bash
+cd react-weather-app
+```
 
 3. Install dependencies
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 4. Create a `.env` file and add your API key
 
-   ```env
-   VITE_WEATHER_API_KEY=your_api_key_here
-   ```
+```env
+VITE_WEATHER_API_KEY=your_api_key_here
+```
 
 5. Start the development server
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
 ---
 
 ## 👩‍💻 Author
 
 **Urvashi Baraiya**
-
->>>>>>> ffae1cd50d1b6406ea8c1e1e998788ae77cac8b2
