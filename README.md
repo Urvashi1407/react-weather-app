@@ -1,7 +1,6 @@
 
 
 # 🌦 React Weather App
->>>>>>> ffae1cd50d1b6406ea8c1e1e998788ae77cac8b2
 
 A responsive Weather Application built using **React** and **Material UI** that fetches real-time weather data using the OpenWeather API.
 
@@ -27,8 +26,7 @@ A responsive Weather Application built using **React** and **Material UI** that 
 
 ---
 <<<<<<< HEAD
->>>>>>> fcfdc897da77f0132b9018dfdcd36585a72da9a7
-=======
+
 
 ## 📦 Installation & Setup
 
@@ -67,11 +65,5 @@ A responsive Weather Application built using **React** and **Material UI** that 
 ## 👩‍💻 Author
 
 **Urvashi Baraiya**
-
----
-
-## ⭐ If you like this project
-
-Give it a star on GitHub ⭐
 
 >>>>>>> ffae1cd50d1b6406ea8c1e1e998788ae77cac8b2
